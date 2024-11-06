@@ -1,0 +1,73 @@
+[
+    {
+      "judul": "Laskar Pelangi",
+      "penulis": "Andrea Hirata",
+      "tahun_terbit": 2005,
+      "halaman": 528,
+      "genre": "Drama, Inspirasi"
+    },
+    {
+      "judul": "Pride and Prejudice",
+      "penulis": "Jane Austen",
+      "tahun_terbit": 1813,
+      "halaman": 279,
+      "genre": "Romansa, Klasik"
+    },
+    {
+      "judul": "The Catcher in the Rye",
+      "penulis": "J.D. Salinger",
+      "tahun_terbit": 1951,
+      "halaman": 277,
+      "genre": "Fiksi, Coming-of-age"
+    },
+    {
+      "judul": "1984",
+      "penulis": "George Orwell",
+      "tahun_terbit": 1949,
+      "halaman": 328,
+      "genre": "Dystopia, Fiksi Ilmiah"
+    },
+    {
+      "judul": "To Kill a Mockingbird",
+      "penulis": "Harper Lee",
+      "tahun_terbit": 1960,
+      "halaman": 281,
+      "genre": "Drama, Sejarah"
+    },
+    {
+      "judul": "Harry Potter and the Sorcerer's Stone",
+      "penulis": "J.K. Rowling",
+      "tahun_terbit": 1997,
+      "halaman": 309,
+      "genre": "Fantasi, Petualangan"
+    },
+    {
+      "judul": "The Hobbit",
+      "penulis": "J.R.R. Tolkien",
+      "tahun_terbit": 1937,
+      "halaman": 310,
+      "genre": "Fantasi, Petualangan"
+    },
+    {
+      "judul": "The Great Gatsby",
+      "penulis": "F. Scott Fitzgerald",
+      "tahun_terbit": 1925,
+      "halaman": 180,
+      "genre": "Drama, Klasik"
+    },
+    {
+      "judul": "The Road",
+      "penulis": "Cormac McCarthy",
+      "tahun_terbit": 2006,
+      "halaman": 287,
+      "genre": "Dystopia, Drama"
+    },
+    {
+      "judul": "Sapiens: A Brief History of Humankind",
+      "penulis": "Yuval Noah Harari",
+      "tahun_terbit": 2011,
+      "halaman": 443,
+      "genre": "Sejarah, Non-Fiksi"
+    }
+  ]
+  
